@@ -6,4 +6,5 @@
 - **Tools**: Git, GitHub, VS Code
 
 ## GitHub Stats 📊
-https://github-readme-stats.vercel.app/api?username=moon02steels&show_icons=true&theme=radical
+![image](https://github.com/user-attachments/assets/de41462d-7feb-4478-91c1-908fb06a9942)
+
