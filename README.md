@@ -6,5 +6,6 @@
 - **Tools**: Git, GitHub, VS Code
 
 ## GitHub Stats 📊
-![image](https://github.com/user-attachments/assets/de41462d-7feb-4478-91c1-908fb06a9942)
+![image](https://github.com/user-attachments/assets/358c8382-5381-4e92-a30e-020c72e3f05b)
+
 
